@@ -1,0 +1,348 @@
+# TITLE
+
+Fiserv - Open Banking a new direction in finance 
+
+## Overview and Origin
+
+* Fiserv
+
+* When was the company incorporated?
+1984
+
+* Who are the founders of the company?
+Fiserv is the progeny of George Dalton and Leslie Muma, who together founded the company in 1984. 
+Dalton and Muma, who each operated his own data processing company, had been trying to merge their operations since the late 1970s. 
+The friends realized early on that to excel in their competitive industry they would need to form a large, national network of clients and service offerings. 
+After purchasing their firms through management buyouts--Dalton and Muma had both been operating as subsidiaries of well-heeled parent companies--the partners joined forces in what would quickly become the fastest growing financial data processing firm in the country.(1)
+ 
+
+* How did the idea for the company (or project) come about?
+First Data Processing and Sunshine State Systems merge to create Fiserv, a national data processing organization focused on the financial services industry
+The combined companies chaneged their name to Fiserv in 1986 and became listed on the NASDAQ exchange.(2)
+
+* How is the company funded? How much funding have they received?
+Fiserv reported total revenue of $10.187 billion in 2019.
+...
+Fiserv.
+Type	Public
+Revenue	US$ 14.85 billion (2020) US$ 5.823 billion (2018)
+Operating income	US$ 1.609 billion (2019) US$ 1.753 billion (2018)
+Net income	US$ 914 million (2019) US$ 1.187 billion (2018)
+Total assets	US$ 77.539 billion (2019) US$ 11.262 billion (2018)(3)
+
+
+## Business Activities:
+    Financial Control Solutions.
+    Financial Performance & Risk Management.
+    Fraud Risk & AML Compliance Management.
+    Institutional Asset Management.
+    Lending Solutions.
+    Cybersecurity Solutions.
+    Card Risk Management.
+    Financial Risk Management.
+
+* What specific financial problem is the company or project trying to solve?
+Open Banking—driven by regulatory, technology and competitive dynamics—calls for banks to use APIs to make certain customer data available to non-bank third parties. 
+The innovation is both evolving the industry toward hyper-relevant, platform-based distribution and giving banks a rich opportunity to expand their ecosystems and extend their reach.
+
+Traditional, vertically integrated banks will need to become what they’ve never been before: savvy bilateral traders. 
+Those that treat Open Banking as a strategic growth priority will position themselves to deliver the seamless and engaging digital experiences customers want—and potentially boost revenues by upwards of 10 percent.(4)
+
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Image result for fiserv customers
+The company's clients include banks, thrifts, credit unions, securities broker dealers, leasing and finance companies, and retailers. 
+In October 2015, American Banker and BAI ranked the company third by revenue among technology providers to U.S. banks.(5)
+
+
+
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Open banking is also known as "open bank data." 
+Open banking is a banking practice that provides third-party financial service providers open access to consumer banking, transaction, and other financial data from banks and non-bank financial institutions through the use of application programming interfaces (APIs).
+Open banking will allow the networking of accounts and data across institutions for use by consumers, financial institutions, and third-party service providers. 
+Open banking is becoming a major source of innovation that is poised to reshape the banking industry.(6)
+
+Implementation of Open banking is a Five phased approach to develop and execute strategy.
+
+1. Assess Readiness
+This would be critical for early starters or even for organizations in mid of their journey. Business strategy along with short-term and long-term plans will set the context for Open Banking Strategy for Bank. Business strategy of defining new business models or target segmentation will form a critical component to define Open Banking Journey. In addition, one needs to assess competitive positioning, partner ecosystem, current API maturity, technology readiness state, stakeholder’s expectations, and technology. Competition provides a deeper view for movements within the industry as someone at times takes industry leadership with just one innovation. This one segment is seeing massive traction across the globe from UK Open Banking & Europe PSD2 to Singapore or India. So, it is crucial to explore innovation and activities taking place across the globe.
+
+2. Redraw Future Landscape
+Banks need to redraw the landscape of their business. The market is evolving at a fast pace; customers’ expectations are changing while regulators also assessing innovation-led approaches. These transitions demand organizations to draw a future landscape for API-led business for Bank and its opportunities. It is driving a major transformation in the industry through the opening up of new business models, opportunities for monetization. During this process, One will lay down the future landscape for Bank on API Journey. The below diagram provides an overview of parameters to draw a future landscape for the Bank based on expectations.
+
+3. Create  Positioning
+
+Based on self-assessment and checking out on new landscape, Banks or FIs must create new positioning for self in Industry and document Target Business Model along with all aspects addressing such as:
+
+    New Business model to adopt
+    API Banking Leadership
+    Rolling out of API products
+    Market Recognition
+
+A new set of KPIs will be another factor to be considered while defining its new open banking positioning in the industry.
+
+This phase needs to focus on Identification of Open Banking Use Cases
+
+Open Banking strategy will be used to design a business model for the Bank. Business models will be defined based on the below aspects:
+
+    Focus on Bank on Business activities/ domains to drive Open Banking
+    Right customer segments such as retail or SME
+    Approach to manage customer relationship like partner led or Bank driven
+    Define cost structure
+    Build monetization opportunities
+    This process will help Banks/FIs to pick & define open banking use cases as part of this phase.
+
+4. Align Open Banking Initiatives & Define Open Banking Strategy
+
+Based on the current state assessment, analysis of future state goals,s and the Bank’s positioning in Open Banking; Banks/FIs should put down their Open Banking Strategy for the organization. 
+This process should cover Bank’s goal and three broad objectives:
+
+	A.     Open Banking Customer Journey
+    		Partner Engagement Model
+    		Customer Engagement Approach
+    		Unified API Service Platform
+    		Productization of Services
+    		New Customer Segment
+    
+	B.    Operational Journey
+    		Salse force transformation
+		Process Reassessment & Automation
+		Reconciliation 
+		Governance Framework
+
+	C.   Technology Enablement 
+		Flexible Cloud / Hubrid Infra
+		ESB / API Gateway Enablement 
+		Big Data & Analytics
+		API Testing Platform
+		Highly secure	
+
+5. Execute the Strategy
+Planning and developing Strategy is one part of the game, Execution is the Key. 
+Many of the banks & FIs have struggled to put the right tools and processes in place as part of execution and this becomes a major bottleneck in rolling out partnerships with Fintechs.
+
+The strategy is to define what you want to achieve and how do you want to go about it. 
+But, Strategy is designed to fail if it has not been built in a proper way to make it work. 
+This has to have a top-down approach and horizontally mapped across business units. 
+Open Banking Strategy needs to be managed from CEO or CXO desk and needs to operate as a business unit. 
+So, this would require participation from Operations, Compliance, Risk Management, Finance and other supporting units to be completely onboard on same.(7)
+
+
+
+## Landscape:
+
+* What domain of the financial industry is the company in?
+Fiserv provides payments processing services both for digital and paper based transactions. 
+
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+The mood in the air at the start of the 2010s was different from the one that preceded the start of the 2000s. 
+The shift from 1999 to 2000 was (mostly) a joyous and cheerful environment. 
+Sure, there was a slight lingering concern that a glitch in how the world’s PCs were programmed might accidentally bring on the tech-pocalypse affectionately referred to as Y2K. 
+However, most people assumed that was survivable, and that the new millennia — powered by the emerging, mysterious technology known as “the internet” — was going to be a great place to live. 
+When people asked “what’s next?” in the year 1999, they were generally pretty excited to hear the answer.
+
+The world of 2009 was starkly different, a far less optimistic place. 
+Though the Great Recession was technically “over” by the middle of 2009, few people living in the real economy felt that fact in their daily lives. 
+Business weren’t hiring, unemployment was in the double digits, the federal funds rate was zero, banks weren’t underwriting non-super-prime consumers at all, enterprise lending was dented, the mortgage market was in a coma, the auto industry was on life support, small business (SMB) lending was almost dead and the stock market was sickly on a good day. 
+When most people asked “what’s next?” in late 2009, they weren’t cheerfully anticipating an answer, but looking to brace themselves for the next volley of dreadful news.
+
+Well, most people — not everybody. 
+As Seedrs CEO Jeff Kelisky told Karen Webster in a recent discussion, while most people in 2009 took one look at the sputtering and shuddering economy, there was a whole class of innovators and entrepreneurs who didn’t see a nuclear wasteland where the economy used to be. 
+They saw a greenfield waiting to be planted.
+
+“Uncertainty breeds entrepreneurship, [and] the people who rise from that are the entrepreneurs and innovators who spot the pattern much more so than others. 
+What we see in that class of 2009 entrepreneurs are those who saw that there were opportunities out there — big ones — if you were willing to create them,” Kelisky said.
+
+Seedrs was one of the names on the illustrious list of 2009-founded firms that decided to make like the Phoenix, and rise out of the ashes. So were Venmo, Uber, Square, FastPay, Stripe, Flywire, Recurly, Kabbage and many more — and PYMNTS, as it turns out. 
+If you can remember all the way back to an interview with Warren Buffett about why payments was the next big thing to watch in the world (and a lime-green design scheme that was, well, regrettable), you’ve been here since day one.
+
+As Nan Siler, head of payment and financial operations at Kabbage, noted, it’s been a pretty wild ride, thus far.
+
+“We’ve watched the payments industry address changes in customer behavior, shifts in compliance rules (GDPR, UBO, CCPA, EMV), the introduction of cryptocurrencies and the race to move money faster. 
+We’ve been on the edge of our front-row seats as the landscape shifts, and the future unfolds, on the web pages of PYMNTS.com,” she said.
+
+So, what mattered most, what were the biggest changes, what scored and what soured? We have the end-to-end guide — and the lessons learned during the ride by the innovators who had a first-row vantage points.
+
+The Greatest Hits (And Misses) Of Capturing The Magic In Mobile Payments 
+
+Among the defining stories of the last decade of payments is the long-running struggle to ignite mobile payments. 
+Mobile payments' inevitable ignition became a common running prediction at the beginning of each year in the 2010s that, at some point, also became something of a running joke. 
+The next year — whichever year it was between 2009 and 2016 — was always forecast to be the year that real mobile payments ignition took off in the U.S. market.
+
+In 2016, it got to the point where it seemed every merchant or tech firm that could affix the world “pay” to its name did so, and launched a mobile payment service to go with it: Apple Pay, Google Pay, Kohl’s Pay, Chase Pay, Capital One Pay, Walmart Pay, Target Pay, CVS Pay, Garmin Pay. The list goes on.
+
+That explosion in interest is often ascribed to the emergence of Apple Pay in 2014 — five years ago this month. 
+There is something to that view — when the service first launched, issuers were so worried it would disrupt cards out of existence, they agreed to pay Apple a tiny slice of their interchange fees every time a customer paid via Apple Pay, rather than risk Apple building its system around ACH transfers.
+
+However, that story overlooks the fact that Apple didn’t create that fear in the minds of issuers all on its own. 
+The race to build a great and powerfully disruptive mobile wallet to knock down the card networks started long before anyone was even speculating about Apple’s payment plans.
+
+The earliest big names in the game were the carrier networks. In November 2010, AT&T, T-Mobile and Verizon Wireless announced that they had joined forces to build a “transformative” mobile commerce network for their collective 200 million or so subscribers to compete with Visa, Mastercard and American Express. 
+The network would run on a card issued by Barclays U.S., and run on the Discover rails.
+
+The plan was to call the network ISIS. Once that became better known as the name of a terrorist organization, they changed it to Softcard.
+
+Two years later, in 2012, MCX rolled up with much the same ambition, but a different team of rivals: every major merchant in the U.S. hoping to band together and offer a mobile payment option based on direct transfers from the customer’s checking account, instead of riding on the card rails and paying the much-reviled interchange fees. The name of that mobile wallet would have been CurrentC — would have been, but never came to be.
+
+Both firms never quite made it to the mass market, overwhelmed with delays, snags, regulatory issues and complete consumer disinterest. 
+In 2015, Softcard was bought out by Google, which promptly shut it down and hollowed it out for parts to use in its own mobile wallet Google Pay. 
+CurrentC hung on for a year or so longer, but quietly hung up its cleats with a “to be continued” in June 2016, never to be heard from again.
+
+“We have not yet determined the future timing of CurrentC, but we will keep you posted,” the firm noted in its last missive to the public. 
+Thus far, there have been no further updates.
+
+Yet, by the time CurrentC and Softcard had bowed out of the race, the overall interest in the world of mobile payments had decidedly moved on to the second generation of mobile wallet racers that started springing to life in the mid-2010s, following the October 2014 launch of Apple Pay. 
+As of the middle of the decade, experts were quite sure that those services were the future of mobile — then inevitable ignition predictions picked up quite sharply.
+
+When the data started coming back, the outcomes weren’t quite expected. 
+The early figures indicated that perhaps the early terror of Apple Pay had been a bit overblown, and that issuers should have held off before letting Apple construct a toll both. 
+The great mass exodus to near-field communication (NFC) payments that the world expected five years ago this month never quite happened.
+
+As PYMNTS' Mobile Wallet Adoption figures have demonstrated over the last five years, simply offering customers an alternative to a card did not motivate them to do much of anything. 
+The majority of customers who can use Apple Pay (or one of the other digital payment methods that PYMNTS tracks) usually don’t to this day.
+
+Customers tend to forget much of the time — and stick with the cards they like, know and rely on to work just about everywhere. 
+In fact, since Square’s launch in 2009 (and the legion of follow-on imitators it inspired over the last decade, all offering their own flavor of flat-fee mobile card acceptance services), consumers could count on cards to work in more places than ever. However, consumers' early reactions to the veritable explosion of payment form factors in the middle of the decade were more shrugs than celebrations.
+
+What happened? What is the lesson to learn?
+
+Sometimes, Flywire CEO Mike Massaro noted in a conversation with Karen Webster, the industry tends to focus on the flashiest features, the most interesting technological advancements, because that is where the excitement often lives. Technologists are excited by technology, he added, and just assume that everyone else is, too.
+
+The lesson Flywire has learned during a decade of building a platform for international remittances, however, is that when one is building for transactions, neither the person paying or the party being paid is all that interested in the technology or mechanics. What they want is to trust their transactions are secure, understand the process in front of them and be free to choose the methods they want to use.
+
+“To get payers to want to pay, it is more about acceptance, and being able to use what they know and trust, than it is about who we are and what we are doing. In some ways, they care more about the payment methods on the screen, and they are things they were familiar with. The customer is telling us loud and clear, ‘I already know what I want and need to do, just [let] me pay to do it,’” he said.
+
+The value in offering up new payment methods and value-added services, Massaro told Webster, isn’t in trying to solve problems that consumers and merchants don’t have, and trying to sell them on the fact that they do have those problems, but on solving the problems they do have and are already looking to fix. Starbucks — first to market, and in that earliest class of mobile wallet innovators — remains possibly the most significant example in the U.S. market to this day, 10 years after launching its first QR code-based mobile wallet product.
+
+Starbucks' mobile commerce program is celebrating its 10th anniversary this year, and is arguably the most successful and influential advance in the U.S. field of competition in the last decade. Impressive, especially when one considers that when Starbucks first offered users an easy way to store a gift card in the Starbucks app and use it to pay, it wasn’t trying to disrupt the card networks or remake the entire consumer payments paradigm. The more humble goal was to make customers more loyal, and offer a better way to reward them for purchases with points (stars) to keep them coming in and staying caffeinated.
+
+If one wants a look at how mobile payments successfully ignited in the 2010s, the Starbucks mobile ignition model is probably a better reference point than the legion of Pays that have flooded the market, and struggled to gain a foothold. By 2015, the Starbucks mobile wallet had expanded to a mobile order-ahead program that, within five months of its launch, represented a full 20 percent of the brands' transaction volume.
+
+“[By the way,] if you ever wondered what ignition looked like in mobile payments, look no further than Starbucks. I’d also watch the whole, entire mobile order-ahead space, which I believe will follow in its little spark-filled ignition footsteps,” Karen Webster wrote at the halfway mark of the decade.
+
+Not to say “we told you so,” but that is exactly what happened. The tech leveled up, and while paying by phone didn’t — in and of itself — solve a consumer problem, paying via mobile to skip a line? That solved a lot of problems for customers, as well as for merchants, which were eventually able to utilize the fact that so many of their orders came in ahead of time to streamline their production flows during peak traffic hours.
+
+The big lesson from the mobile payments ignition story was, in fact, repeated throughout the deceased, in various forms: Ignition cannot happen by hype alone — it has to solve a real problem, or even better, a series of problems.
+
+Old Problems, New Paradigms 
+
+The good news about the bad old days of 2009 is that innovators looking for a problem to solve had not shortage of places to start.
+
+Financial services was a disaster, thanks to the recession. A customer who wanted a credit card or mortgage loan needed a credit score of 720 or better — or banks probably weren’t much interested in talking to them. A car loan was possible, but the subprime interest rates were ugly. An SMB that needed a loan had to have been in business for over a decade, and comprehensively prove that — despite the recession — it didn't need any money. An entrepreneur looking for an investment pretty much had to be on the founding team at PayPal, or no venture capitalist wanted to talk to them.
+
+The world of work wasn’t much better. Ten percent of Americans needed a job, full stop. A person looking to make money by driving a cab needed within $250,000 and $1 million to buy a medallion, or had to kick back large sums of their income to the company — which had the medallion they drove under. The words “gig economy” did not exist.
+
+The world of play also had its issues. A person looking to ride in a cab needed a lot of cash to pay for the ride, since the card machines were always broken — not to mention, the time to flag down a cabbie. Dividing a check at the end of a meal between six adults using cards was potentially a friendship-ending event. A customer who wanted to order something online had to allow for an average of seven to 10 business days to wait for it — unless they were one of the few early adopters of Amazon Prime, and were starting to get addicted to two-day shipping. A customer who wanted access to their favorite 20 channels had to pay $250 per month for 380 additional channels they did not want through a bundled cable package.
+
+“What technology was able to really do [was] create entirely new markets based on entirely new paradigms. And that fundamentally changed who could play the game,” Kelisky said.
+
+It also changed how the game was played across the spectrum going forward. There were players who decided to go and “do this, break the glass and see what happens,” he noted — an attitude that paid dividends 10 years ago for firms that wanted to lock in a lot of fast growth in a green field.
+
+A decade down the line, with regulators “now looking to [fully] unwind some companies,” the other side of the “move fast and break things” coin is becoming apparent. After 10 years of things like the Cambridge Analytica scandal, Uber’s various missteps, scores of data breaches, overly attentive voice AI issues and an increasingly loud chorus of questions from regulators about just how large Big Tech should be allowed to get, it is safe to question if perhaps a few too many innovators moved too fast, and broke a few too many things.
+
+Financial services players succumb to that temptation less often because they are (rightly so) highly regulated from the get-go, he explained. Breaking things gets one's firm bounced out of the game pretty early.
+
+However, even putting aside that questionable legacy, what the next generation of problem-solvers created wasn’t a digitized version of things that had failed in the past, but wholly new models that were ready to replace them. Seedrs’ line was in investing for early stage firms, he noted, but one can log the progress across the consumer financial services and commerce ecosystems.
+
+Personal loan platforms that offer consumers and SMBs alternative paths to credit away from cards, like LendingClub and OnDeck, were early entrants — and replaced card financing with installment-based loans for consumers looking to consolidate their debts. That was then followed by installment loan players, like Affirm and Uplift, which sought to disrupt high-interest store cards with transparent installment loans.
+
+Those offerings change who has access, as well as what consumers expect from their access, Flywire’s Massaro noted. They expect speed, for their data to be protected and to understand what they are paying at the beginning of a transaction. That change in expectations raises the stakes of the game, and, for the last several years, has been in consumer offerings. When it isn’t, those consumers keep moving on until they find the merchant, issuer or service provider that will provide them with what they want.
+
+That motion, Secil Baysal, president and COO of FastPay, noted, is the motor that drives the payments ecosystem as a whole, not just the consumer-facing side.
+
+“Today, B2C payments are so much further ahead than B2B when it comes to digitization. The future of B2B payments will continue to evolve and transform as technology, data, and automation help bridge the gap, and accelerate efficiency,” Baysal said. He noted that the B2B world is entering the 2020s with a significant number of its payments still happening “by check, wasting valuable time and money on slow and error-prone payment processes,” demonstrating that — for as much as has been done — a lot more still needs to happen.
+
+With as much as we know today, what’s next is still very much up in the air.
+
+Knowing What We Don’t Know 
+
+Socrates famously said that the only thing he knew was that he knew nothing.
+
+As we are about to say goodbye to the latest decade of payments and commerce, we can’t help but desire to forward that 3,000-year-old piece of wisdom. One really can’t know what they don’t know. For example, trying to forecast the rise of real-time payments in the U.S. since 2016, one would have also had to foresee the rise of the gig economy, the proliferation of online marketplaces and the explosion of P2P payments between consumers. That would have been a challenge, though, given that two out of those three things didn't exist in 2009 — until Uber and Venmo kicked them off, respectively.
+
+Even guessing about online marketplaces would have required forecasting the rocket ride to the top that Amazon was about to embark on — at a time when the firm’s stock price had never been over $100, and Wall Street investors were still debating whether Amazon Prime as an offering was a good idea or the greatest waste of money in the history of retail.
+
+As Recurly CEO Dan Burkhart noted in his conversation with Karen Webster, the big insight isn’t always the first thing one sees. The path to success for every player over the last 10 years hasn’t been in answering the most transformational question on day one.
+
+“In 2009, we saw a change in focus was coming [into] the market, and a change in the way things were being bought — but, honestly, our first touchpoint wasn’t B2C. What we [saw evidence of] was that the world was becoming more cloud-based in terms of software, and that [Software-as-a-Service (SaaS)] was eliminating friction, and started to really disrupt whole [sector],” he said.
+
+The trick was that, in realizing consumers were increasingly connected to their mobile phones, shopping in context and impatient of delays, they were, in effect, becoming an entirely different type of consumer than the world had ever seen before, he noted. They know what they want, and the firms that serve them understand that, and aren’t arguing with it or trying to change it. What they are trying to do, first and foremost, is figure out how to meet the rising expectations, then decide what they can build from there to exceed them and delight.
+
+“What has changed the most over time is that the market has become more sophisticated. The initial conversations today are far more advanced than they were in the early days. No one is asking us what is a payments gateway anymore,” Burkhart said, adding that the questions are now coming in at an intermediate level of sophistication, and tracking toward how to get to the advanced.
+
+Of course, the goal — as it has been for the last decade or so — has been to stay ahead. If there is any one lesson to take from the last decade of payments and commerce innovation into the next one, it is probably that one should keep their blinking to an absolute minimum. This ride isn’t slowing down — if anything, it seems it might just be starting up.
+
+“Over the next 10 years, we look forward to watching the payments landscape continue to evolve. I predict connected commerce will lead the way, as payments will routinely be made via artificial intelligence and voice assistants. Money will move faster, utilizing any number of new settlement methods,” said Kabbage’s Siler.
+
+While we can’t promise a crystal ball (yet, R&D is hard at work), we can promise that as soon as we can see around the corner, we will share. After 10 years on this ride, we can safely say we’ve gotten a lot of good practice reading the tea leaves.
+
+Don’t take our word for it. For our anniversary, we received a gift of one sterling endorsement from Bain Capital Partner Matt Harris.
+
+“PYMNTS has the distinction of being the one media property I read every day, without exception. Karen and her team blend a comprehensive sense for everything happening in the ecosystem, small and large, with a thoughtful and sophisticated editorial perspective. As a result, I get all the news I need, often accompanied by a sharp and insightful take from Karen. In addition, their events are not merely industry convening, but are also intellectually rewarding … they are among the few events I attend where I actually listen to the sessions! PYMNTS is an essential media property for our industry, and I’m grateful for the past 10 years,” he said.(8)
+
+
+* What are the other major companies in this domain?
+op Fiserv Alternatives (All Time)
+
+    Jack Henry & Associates
+    FIS
+    Oracle
+    Finastra (formerly Misys/ D+H)
+    ICS Financial Systems
+    SAP
+    Temenos
+    Avaloq(9)
+
+## Results
+
+* What has been the business impact of this company so far?
+Fiserve enables money movement for thousands of financial institutions and millions of people and businesses in a world that never powers down. 
+
+- 1.4B: Global accounts on file 
+- 100M: Digital banking users
+- Nearly 6M Merchant locations globally
+- Touchpoints with nearly 100% of U.S. households 
+- More than 12,000 financial transactions per second 
+- Nearly 10,000 financial institution clients(10)
+
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+- Business analytics 
+
+Fiserv, Inc. (NASDAQ: FISV), a leading global provider of financial services technology solutions, has been named to the annual ranking of FORTUNE “World’s Most Admired Companies®” for the eighth consecutive year. 
+This index determines the best-regarded companies across industry sectors, and is widely considered to be the definitive scorecard on corporate reputation.
+Among companies in the Financial Data Services category, Fiserv received the top mark for People Management, and second highest marks for Social Responsibility, Innovation, Use of Corporate Assets and Long-Term Investment Value, recognizing the company’s strength and leadership. 
+Fiserv was also noted for its Quality of Management, Quality of Products and Services, Global Competitiveness and Financial Soundness. 
+
+
+* How is your company performing relative to competitors in the same domain?
+With annual revenues of $14.8B and over 24,000 employees, Fiserv is considered the leader within the back office financial operations sector. 
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!
+Full data integration between banking platforms and business ERP systems.  Currently, data connectivity takes weeks to ensure a solid connection and multiple days of testing.  The time and customer experience are impacted by the limited technical capabilities to create a middleware solution that works with any ERP system, whether connectivity is achieved through cloud related or ftp server connectivity. 
+They would also need to employ a sandbox development strategy for API's as many organizations have failed to implement API strategies and continue with file based processing.  
+* Why do you think that offering this product or service would benefit the company?
+This would be the only company that provides this level of connectivity.  Currently, individual systems have a direct communications link that typically takes 6 to 12 weeks lead time and regardless of the number of entities using the same platform each implementation requires significant technocal intervention. 
+
+* What technologies would this additional product or service utilize?
+API's and additional functionality that has yet to be created for both mobile and terminal systems. 
+
+
+* Why are these technologies appropriate for your solution?
+API's provides a direct connection and offers real-time accessibility to data. 
+
+
+Resources:
+
+1. https://www.referenceforbusiness.com/history2/70/Fiserv-Inc.html
+2. https://en.wikipedia.org/wiki/Fiserv
+3. https://www.google.com/search?q=how+much+funding+has+fiserv+received&client=firefox-b-1-d&biw=1536&bih=739&sxsrf=ALeKk03vPatZ_GMXClajo4fkz_V_Zk1QvA%3A1625019368567&ei=6NPbYJ6HIqC2qtsP246F0AQ&oq=how+much+funding+has+fiserv+reciev&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCCEQChCgAToHCCMQsAMQJzoHCAAQRxCwAzoECCMQJzoFCAAQkQI6CwguELEDEMcBEKMCOggIABCxAxCDAToICC4QxwEQowI6BQgAELEDOgQIABBDOgIIADoFCC4QkQI6BQgAEMkDOggIIRAWEB0QHjoGCAAQFhAeOgkIABDJAxAWEB46CAgAEBYQChAeOgUIABCGAzoFCCEQoAE6BQghEKsCOgQIIRAKSgQIQRgAUMIqWK3lBmCc-QZoCHACeACAAYkBiAHtHpIBBTI4LjEzmAEAoAEBqgEHZ3dzLXdpesgBCcABAQ&sclient=gws-wiz
+4. https://www.accenture.com/us-en/insights/banking/open-banking
+5. https://www.google.com/search?client=firefox-b-1-d&sxsrf=ALeKk02x-tYRDRcB3VBOoVdN4Z3hfW6FGQ%3A1625020257880&lei=YdfbYIL1NPm2qtsP2Na82AE&q=fiserv%20customers&ved=2ahUKEwjCqeSZqL7xAhV5m2oFHVgrDxsQsKwBKAF6BAgsEAI&biw=1536&bih=739
+6. https://www.investopedia.com/terms/o/open-banking.asp
+7. https://thedigitalfifth.com/open-banking-strategy-and-implementation/
+8. https://www.pymnts.com/news/payments-innovation/2019/ten-years-of-payments-innovation-and-reinvention/
+9. https://www.gartner.com/reviews/market/global-retail-core-banking/vendor/fiserv/alternatives
+10. https://www.fiserv.com/en/about-fiserv.html?_ga=2.12363511.296278730.1624994317-387341634.1623968108
